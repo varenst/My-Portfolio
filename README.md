@@ -23,12 +23,11 @@ I began developing on Roblox five years ago and have been committed to learning 
 ## Projects
 
 Here are some of the projects I have worked on.
-### Custom Physics Engine on Roblox
 
 I recently developed a custom physics engine on Roblox. Here are some videos demonstrating my work:
 
-- [Custom Physics Engine Video 1](https://gyazo.com/1342aef4a185bd5793a00f4ef2039d73)
-- [Custom Physics Engine Video 2](https://gyazo.com/9c70a24447618ce388d7f5e0a8a5eb42)
+- [Custom Physics Engine Video in Roblox](https://gyazo.com/1342aef4a185bd5793a00f4ef2039d73)
+- [Custom Physics Engine Video in Roblox](https://gyazo.com/9c70a24447618ce388d7f5e0a8a5eb42)
 - [Shader Programming in shadertoy Example](https://gyazo.com/fde1eb91cbe0e81ea33a7776b2f10a6f)
 - [Character Procedural animations](https://gyazo.com/c5261d04c09fecfa1044cacf79753fc7)
 - [Ui for one of my games](https://gyazo.com/756a13f0a6cc5d0ad414e25cd69033f3)
